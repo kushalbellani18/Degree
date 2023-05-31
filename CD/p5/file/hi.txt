@@ -1,0 +1,6 @@
+P,Q,R
+Q,T,U
+R,P,P
+S,U,T
+T,S,U
+U,S,T
