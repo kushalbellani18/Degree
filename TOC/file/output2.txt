@@ -1,0 +1,9 @@
+Int = 45
+Float = 8.120000
+Int = 89
+Float = 0.450000
+Float = 45.300000
+Float = 31.000000
+Int = 100
+Float = 45.000000
+Float = 56.000000

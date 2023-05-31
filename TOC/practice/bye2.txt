@@ -1,0 +1,7 @@
+Int: 34
+Float: 56.300000
+Float: 0.450000
+Int: 23
+Int: 100
+Float: 3.450000
+Float: 0.100000
