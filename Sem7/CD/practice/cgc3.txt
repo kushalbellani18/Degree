@@ -1,0 +1,6 @@
+E->TX
+X->+TX|epsilon
+T->FY
+Y->*FY|epsilon
+F->(E)|z
+
