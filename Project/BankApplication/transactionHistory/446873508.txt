@@ -1,0 +1,8 @@
+WITHDRAW: ( 10-10-2020 17:19:53 )
+Old Money: 2500.0
+Update Money: 2000.0
+----
+DEPOSIT: ( 10-10-2020 17:20:21 )
+Old Money: 2000.0
+Update Money: 3000.0
+----
