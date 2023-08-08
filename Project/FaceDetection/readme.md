@@ -16,6 +16,6 @@ Here, show a plot as shown below:
 ![plot](plot_with_aug.png)
 
 - **non-Aug**
-![plot](plot_wihtout_aug.png)
+![plot](plot_without_aug.png)
 
 [Click the poster presentation](https://docs.google.com/presentation/d/1qwLPPaMutRK1Zn8L5Qt85-uYC0jC249vVazbBrm7UY8/edit?usp=sharing)
