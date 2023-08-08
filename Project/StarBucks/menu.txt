@@ -1,0 +1,25 @@
+java chip
+200
+250
+270
+----
+caramel coffee
+225
+275
+250
+----
+white mocha
+195
+215
+265
+----
+caramel java chip
+280
+300
+325
+----
+brewed coffee
+210
+230
+255
+----
